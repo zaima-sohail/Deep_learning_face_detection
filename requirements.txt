@@ -1,0 +1,5 @@
+mtcnn
+tensorflow
+opencv-python
+numpy
+streamlit
