@@ -1,6 +1,8 @@
 # Face Detection and Recognition using Deep Learning
 
 A Python project that detects faces in images with **MTCNN** and recognizes people using deep learning face embeddings (**FaceNet / InceptionResnetV1**) with an SVM classifier.
+<img width="1897" height="980" alt="image" src="https://github.com/user-attachments/assets/d2f80786-0c4e-47b3-acdf-077397d1e71f" />
+
 
 ## Features
 
